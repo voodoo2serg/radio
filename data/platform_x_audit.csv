@@ -1,0 +1,30 @@
+﻿station,profile,resource_id,resource_label,resource_locator,posts_with_link,months_present,threshold_posts,threshold_months,qualifies_for_x,qualified_resource_count,x_level
+Business FM,2024H1,website,Официальный сайт Business FM,bfm.ru,350,6,10,2,yes,1,X1
+Business FM,2026H1,max,Официальный канал Business FM в MAX,max.ru/bfm,7344,6,10,2,yes,2,X2
+Business FM,2026H1,website,Официальный сайт Business FM,bfm.ru,313,6,10,2,yes,2,X2
+Дорожное радио,2024H1,ok,Площадка «Дорожного радио» в Одноклассниках,ok.ru/dorognoe,13,4,10,2,yes,2,X2
+Дорожное радио,2024H1,vk,Площадка «Дорожного радио» во ВКонтакте,vk.com/dorognoe,5,2,10,2,no,2,X2
+Дорожное радио,2024H1,website,Официальный сайт «Дорожного радио»,dorognoe.ru,41,6,10,2,yes,2,X2
+Дорожное радио,2026H1,app,Мобильное приложение «Дорожного радио»,ru.roadradio.europa,2,1,10,2,no,1,X1
+Дорожное радио,2026H1,ok,Площадка «Дорожного радио» в Одноклассниках,ok.ru/dorognoe,2,2,10,2,no,1,X1
+Дорожное радио,2026H1,vk,Площадка «Дорожного радио» во ВКонтакте,vk.com/dorognoe,1,1,10,2,no,1,X1
+Дорожное радио,2026H1,website,Официальный сайт «Дорожного радио»,dorognoe.ru,43,6,10,2,yes,1,X1
+Маяк,2024H1,apple_podcasts,Подкасты «Маяка» в Apple Podcasts,podcasts.apple.com,30,6,10,2,yes,4,X3
+Маяк,2024H1,smotrim,Платформа ВГТРК «Смотрим»,smotrim.ru,1188,6,10,2,yes,4,X3
+Маяк,2024H1,vk,Официальная площадка «Маяка» во ВКонтакте,vk.com/mayakfm,104,6,10,2,yes,4,X3
+Маяк,2024H1,yandex_music,Программы «Маяка» в Яндекс Музыке,music.yandex.ru,68,6,10,2,yes,4,X3
+Маяк,2026H1,apple_podcasts,Подкасты «Маяка» в Apple Podcasts,podcasts.apple.com,35,5,10,2,yes,5,X3
+Маяк,2026H1,dzen,Официальный канал «Маяка» в Дзене,dzen.ru/radiomayak,73,1,10,2,no,5,X3
+Маяк,2026H1,max,Официальный канал «Маяка» в MAX,max.ru/mayakfm,868,6,10,2,yes,5,X3
+Маяк,2026H1,smotrim,Платформа ВГТРК «Смотрим»,smotrim.ru,1135,6,10,2,yes,5,X3
+Маяк,2026H1,vk,Официальная площадка «Маяка» во ВКонтакте,vk.com/mayakfm,32,6,10,2,yes,5,X3
+Маяк,2026H1,yandex_music,Программы «Маяка» в Яндекс Музыке,music.yandex.ru,148,6,10,2,yes,5,X3
+Радио 1,2024H1,dzen,Официальный канал «Радио 1» в Дзене,dzen.ru/radio1,1,1,10,2,no,3,X3
+Радио 1,2024H1,podcast_ru,Подкасты «Радио 1» на podcast.ru,podcast.ru,119,6,10,2,yes,3,X3
+Радио 1,2024H1,vk,Официальная площадка «Радио 1» во ВКонтакте,vk.com/radio1_ru,13,4,10,2,yes,3,X3
+Радио 1,2024H1,website,Официальный сайт «Радио 1»,radio1.ru / radio1.news,309,6,10,2,yes,3,X3
+Радио 1,2024H1,youtube,Официальный YouTube-канал «Радио 1»,youtube.com/@_Radio1,4,1,10,2,no,3,X3
+Радио 1,2026H1,max,Официальный канал «Радио 1» в MAX,max.ru/Radio1,4506,6,10,2,yes,4,X3
+Радио 1,2026H1,podcast_ru,Подкасты «Радио 1» на podcast.ru,podcast.ru,92,6,10,2,yes,4,X3
+Радио 1,2026H1,podster,Подкасты «Радио 1» на Podster,podster.fm,32,4,10,2,yes,4,X3
+Радио 1,2026H1,website,Официальный сайт «Радио 1»,radio1.ru / radio1.news,316,6,10,2,yes,4,X3
